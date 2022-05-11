@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Top of the God Damn Pops</h1>
+      <h1>Top of Pops</h1>
       <TotpContainer />
     </div>
 
